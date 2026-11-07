@@ -31,6 +31,8 @@ and its related projects.
 
 ## Licence
 
-Bongo is licensed under the GNU Affero General Public License v3.0.
+The Bongo server is licensed under the GNU Affero General Public License v3.0.
+The archived original code base (bongo-orig) is licensed under the GNU General
+Public License v2.0.
 Security reports follow the policy in
 [SECURITY.md](https://github.com/bongo-project/bongo/blob/main/SECURITY.md).
